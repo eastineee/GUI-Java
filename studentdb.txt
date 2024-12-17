@@ -1,0 +1,5 @@
+24010,Kristine Pascua,pascua@gmail.com,19,BSIT
+24020,Deborah Macaubos,macaubos@gmail.com,20,BSIT
+24030,Nick Rulona,rulona@gmail.com,21,BSCE
+24040,Pia Pacana,pacana@gmail.com,20,BSEE
+24050,Raizhi Sarino,sarino@gmail.com,21,BSIT
